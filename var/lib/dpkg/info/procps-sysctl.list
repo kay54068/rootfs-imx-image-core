@@ -1,0 +1,7 @@
+/.
+/etc
+/etc/sysctl.conf
+/etc/sysctl.d
+/sbin
+/sbin/sysctl.procps
+/etc/sysctl.d/99-sysctl.conf

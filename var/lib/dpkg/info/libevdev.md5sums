@@ -1,0 +1,4 @@
+5c239e506f2168cb5a10150adb315996  usr/bin/libevdev-tweak-device
+c24a95ef5103c40f268d7c775c5f74e6  usr/bin/mouse-dpi-tool
+2da611159d5d13c5040bebfbc594f432  usr/bin/touchpad-edge-detector
+dc820490bd203aab32ec48686edc552a  usr/lib/libevdev.so.2.3.0

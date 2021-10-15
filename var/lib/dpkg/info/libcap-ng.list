@@ -1,0 +1,8 @@
+/.
+/lib
+/lib/libcap-ng.so.0.0.0
+/usr
+/usr/lib
+/usr/lib/libdrop_ambient.so.0.0.0
+/lib/libcap-ng.so.0
+/usr/lib/libdrop_ambient.so.0

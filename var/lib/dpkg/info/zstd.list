@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/bin
+/usr/bin/zstd
+/usr/bin/zstdgrep
+/usr/bin/zstdless
+/usr/lib
+/usr/lib/libzstd.so.1.4.9
+/usr/bin/unzstd
+/usr/bin/zstdcat
+/usr/bin/zstdmt
+/usr/lib/libzstd.so.1

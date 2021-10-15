@@ -1,0 +1,12 @@
+4e95520c37ddb8b2e041bfb5df5f2dd4  lib/firmware/nxp/ed_mac_ctrl_V3_8987.conf
+5d0f6ade3139e263707d0bdb36784482  lib/firmware/nxp/ed_mac_ctrl_V3_8997.conf
+83737ed54b35be348c78fc95c00c149f  lib/firmware/nxp/ed_mac_ctrl_V3_909x.conf
+12156c01162baa9b72c7156474797db1  lib/firmware/nxp/pcieuart8997_combo_v4.bin
+2a79a5b92d5b8efee7a669c14b8ebba3  lib/firmware/nxp/pcieuart9098_combo_v1.bin
+ce4e4c8abd2ab75f3cec62187f270f54  lib/firmware/nxp/sdiouart8987_combo_v0.bin
+7fcda73498943e0c6001dc7b5b39f3eb  lib/firmware/nxp/sdiouart8997_combo_v4.bin
+f0438550e1d728bea374700afa7a6d60  lib/firmware/nxp/sdiouartiw416_combo_v0.bin
+8804ac90a2252bff876e3bb97d8d60d4  lib/firmware/nxp/txpwrlimit_cfg_8987.conf
+6704ad5f9dc067fe52b8fbf0451b80f2  lib/firmware/nxp/txpwrlimit_cfg_8997.conf
+08654a9b8f1f4d649f092c909932201d  lib/firmware/nxp/txpwrlimit_cfg_9098.conf
+58f2623dbc4b25743fef960ba6e7bbc4  lib/firmware/nxp/wifi_mod_para.conf

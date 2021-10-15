@@ -1,0 +1,9 @@
+/.
+/etc
+/etc/ssl
+/etc/ssl/openssl.cnf
+/usr
+/usr/lib
+/usr/lib/ssl-1.1
+/usr/lib/ssl-1.1/openssl.cnf.dist
+/usr/lib/ssl-1.1/openssl.cnf

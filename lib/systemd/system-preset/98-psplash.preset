@@ -1,0 +1,6 @@
+enable psplash-start.service
+enable psplash-systemd.service
+enable psplash-start.service
+enable psplash-basic.service
+enable psplash-network.service
+enable psplash-quit.service

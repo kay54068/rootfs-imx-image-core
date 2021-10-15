@@ -1,0 +1,4 @@
+a58e7c39becd605228d12ef368f8a352  usr/bin/cmp.diffutils
+acc2e9d9ff90cc45a54a6939fd1d8373  usr/bin/diff.diffutils
+84695ed4b37ca859aa6bbabbc70ea392  usr/bin/diff3
+4b60062bde726427fa2dbd03c113eaff  usr/bin/sdiff

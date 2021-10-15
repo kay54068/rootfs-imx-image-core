@@ -1,0 +1,7 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/extra
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/extra/driver
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/extra/driver/jailhouse.ko

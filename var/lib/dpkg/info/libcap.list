@@ -1,0 +1,10 @@
+/.
+/lib
+/lib/libcap.so.2.48
+/lib/security
+/lib/security/pam_cap.so
+/usr
+/usr/lib
+/usr/lib/libpsx.so.2.48
+/lib/libcap.so.2
+/usr/lib/libpsx.so.2

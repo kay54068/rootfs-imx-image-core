@@ -1,0 +1,10 @@
+7ebfdd9c5996751d271a2a86229fa292  usr/bin/fc-cache
+79c0ee7e95e02cbf62dd7a535caec1c5  usr/bin/fc-cat
+d1a65b6f92ff8de3b63e6cff12251ffc  usr/bin/fc-conflist
+431122c4c21ae4bda54cbe1633da9af1  usr/bin/fc-list
+700e798062966f09937f9eea0b3b71d1  usr/bin/fc-match
+dfe246a827207b06bcd81605c85dc327  usr/bin/fc-pattern
+794de07f089141dbb0e47cb6ebabfa48  usr/bin/fc-query
+f7355edd48fe2a309b8434a19c49b6e0  usr/bin/fc-scan
+452e09b70f3f50a43ab831ece0cfcbbb  usr/bin/fc-validate
+7ebfdd9c5996751d271a2a86229fa292  usr/libexec/fc-cache

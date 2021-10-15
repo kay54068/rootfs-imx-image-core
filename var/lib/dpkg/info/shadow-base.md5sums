@@ -1,0 +1,7 @@
+e89a46d563f5518644bea70b509e60cf  bin/login.shadow
+2f7967aa67753671240b6f438b859a25  bin/su.shadow
+37306c7751e5ee5e4f7a840e3e2a3f59  etc/login.defs
+5f7e217ce352e6df5f4f24afad4adc4d  etc/pam.d/login
+1c28c617ec2ff35572bc88492c4ce150  etc/pam.d/su
+fda6f583a274b1e2e7c4ffa4989220a0  usr/bin/groups.shadow
+8845d5cd3265e0170d05353d13fbc86c  usr/bin/newgrp.shadow

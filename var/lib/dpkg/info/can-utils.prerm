@@ -1,0 +1,6 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+set -e
+	update-alternatives --remove  candump /usr/bin/candump.can-utils
+	update-alternatives --remove  cansend /usr/bin/cansend.can-utils
+	update-alternatives --remove  cansequence /usr/bin/cansequence.can-utils

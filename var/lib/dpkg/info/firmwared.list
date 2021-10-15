@@ -1,0 +1,10 @@
+/.
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/firmwared.service
+/lib/systemd/system-preset
+/lib/systemd/system-preset/98-firmwared.preset
+/usr
+/usr/bin
+/usr/bin/firmwared

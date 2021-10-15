@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/bin
+/usr/bin/stap-merge
+/usr/bin/staprun
+/usr/bin/stapsh
+/usr/libexec
+/usr/libexec/systemtap
+/usr/libexec/systemtap/stapio

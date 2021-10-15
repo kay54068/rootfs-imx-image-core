@@ -1,0 +1,7 @@
+/.
+/usr
+/usr/bin
+/usr/bin/stdbuf
+/usr/lib
+/usr/lib/coreutils
+/usr/lib/coreutils/libstdbuf.so

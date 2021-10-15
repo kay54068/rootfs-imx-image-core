@@ -1,0 +1,9 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/kernel
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/kernel/sound
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/kernel/sound/soc
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/kernel/sound/soc/sof
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/kernel/sound/soc/sof/snd-sof.ko

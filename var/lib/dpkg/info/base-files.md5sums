@@ -1,0 +1,12 @@
+af3c087d6c9131735c8d1f270a226892  etc/fstab
+a61b9f6548d337c1cc1e5a4de39f7b7f  etc/host.conf
+8357b86704bee2ac1ae321b3211e04a9  etc/hostname
+1baaaf26ee72b916d1f973f44027213b  etc/hosts
+8281ece9f2c82f92b95a4a0dd4a66876  etc/issue
+8a2d2e0bb46e940a0c4b9c3409bebec0  etc/issue.net
+d41d8cd98f00b204e9800998ecf8427e  etc/motd
+109e33e2c91d1853b5bc56078a96aa18  etc/nsswitch.conf
+b0c0174a96285b041629dd3380b3d948  etc/profile
+a0b758b0ae1eaefda1dfb8b031f7a903  etc/shells
+afc1540d0ea2015726f4766fd983488f  etc/skel/.bashrc
+d255d9366bf0add4bf9a87cb19c93d31  etc/skel/.profile

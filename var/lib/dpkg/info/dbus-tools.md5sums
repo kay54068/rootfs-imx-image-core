@@ -1,0 +1,4 @@
+3edb91008b8297b3eb71245e61255f20  usr/bin/dbus-monitor
+5b6657114bcdeafa1afcc758940b5b53  usr/bin/dbus-send
+9cd4db4f11637463a8e0ca2f98f601ab  usr/bin/dbus-update-activation-environment
+4a891521092ac9bd21d6524d53176e42  usr/bin/dbus-uuidgen

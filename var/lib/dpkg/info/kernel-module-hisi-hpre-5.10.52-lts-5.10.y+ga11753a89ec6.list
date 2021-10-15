@@ -1,0 +1,10 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/kernel
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/kernel/drivers
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/kernel/drivers/crypto
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/kernel/drivers/crypto/hisilicon
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/kernel/drivers/crypto/hisilicon/hpre
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/kernel/drivers/crypto/hisilicon/hpre/hisi_hpre.ko

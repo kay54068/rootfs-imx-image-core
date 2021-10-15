@@ -1,0 +1,4 @@
+f815538736ecf4a395f1c5ee287fed04  usr/bin/zstd
+4e16657238c1d51e2067380425cea68c  usr/bin/zstdgrep
+a412a00e7fb3d605ecd9f45d507d1184  usr/bin/zstdless
+aa61bee65e840b29366179ef50b1dcb2  usr/lib/libzstd.so.1.4.9

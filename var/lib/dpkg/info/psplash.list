@@ -1,0 +1,15 @@
+/.
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/psplash-basic.service
+/lib/systemd/system/psplash-network.service
+/lib/systemd/system/psplash-quit.service
+/lib/systemd/system/psplash-start.service
+/lib/systemd/system/psplash-systemd.service
+/lib/systemd/system-preset
+/lib/systemd/system-preset/98-psplash.preset
+/usr
+/usr/bin
+/usr/bin/psplash-systemd
+/usr/bin/psplash-write

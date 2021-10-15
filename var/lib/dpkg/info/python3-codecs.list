@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3.9
+/usr/lib/python3.9/__pycache__
+/usr/lib/python3.9/__pycache__/xdrlib.cpython-39.opt-1.pyc
+/usr/lib/python3.9/__pycache__/xdrlib.cpython-39.opt-2.pyc
+/usr/lib/python3.9/__pycache__/xdrlib.cpython-39.pyc
+/usr/lib/python3.9/lib-dynload
+/usr/lib/python3.9/lib-dynload/_multibytecodec.cpython-39-aarch64-linux-gnu.so
+/usr/lib/python3.9/xdrlib.py

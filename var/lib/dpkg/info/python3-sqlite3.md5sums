@@ -1,0 +1,13 @@
+28d3abef6e8eead3bf2e9832bfcb44ba  usr/lib/python3.9/lib-dynload/_sqlite3.cpython-39-aarch64-linux-gnu.so
+c780309c37e8a2e69ce7c5eb6e5f67b7  usr/lib/python3.9/sqlite3/__init__.py
+cd51dae967d674d8ffc4dc7d567fd5d4  usr/lib/python3.9/sqlite3/__pycache__/__init__.cpython-39.opt-1.pyc
+cd51dae967d674d8ffc4dc7d567fd5d4  usr/lib/python3.9/sqlite3/__pycache__/__init__.cpython-39.opt-2.pyc
+cd51dae967d674d8ffc4dc7d567fd5d4  usr/lib/python3.9/sqlite3/__pycache__/__init__.cpython-39.pyc
+98f452a9a0e4644270c281d849a00388  usr/lib/python3.9/sqlite3/__pycache__/dbapi2.cpython-39.opt-1.pyc
+98f452a9a0e4644270c281d849a00388  usr/lib/python3.9/sqlite3/__pycache__/dbapi2.cpython-39.opt-2.pyc
+98f452a9a0e4644270c281d849a00388  usr/lib/python3.9/sqlite3/__pycache__/dbapi2.cpython-39.pyc
+4a3f0b4ad18106621e651b93577b277c  usr/lib/python3.9/sqlite3/__pycache__/dump.cpython-39.opt-1.pyc
+43ba4d1283fe0e1df6ad06321ec80557  usr/lib/python3.9/sqlite3/__pycache__/dump.cpython-39.opt-2.pyc
+4a3f0b4ad18106621e651b93577b277c  usr/lib/python3.9/sqlite3/__pycache__/dump.cpython-39.pyc
+e85cb4e63daccf94b34134029fda6033  usr/lib/python3.9/sqlite3/dbapi2.py
+9c5839cd6a2c84a3a48de6b7aee667cc  usr/lib/python3.9/sqlite3/dump.py

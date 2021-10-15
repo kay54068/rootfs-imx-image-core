@@ -1,0 +1,9 @@
+#!/bin/sh
+set -e
+if [ -z "$D" ]; then
+	depmod -a 5.10.52-lts-5.10.y+ga11753a89ec6
+else
+	# image.bbclass will call depmodwrapper after everything is installed,
+	# no need to do it here as well
+	:
+fi

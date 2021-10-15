@@ -1,0 +1,10 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+set -e
+if systemctl >/dev/null 2>/dev/null; then
+	if [ -z "$D" ]; then
+		systemctl stop psplash-start.service psplash-systemd.service psplash-start.service psplash-basic.service psplash-network.service psplash-quit.service
+
+		systemctl disable psplash-start.service psplash-systemd.service psplash-start.service psplash-basic.service psplash-network.service psplash-quit.service
+	fi
+fi

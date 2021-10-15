@@ -1,0 +1,8 @@
+70ab09ffb57acf3c6cf32c6688894987  usr/bin/xkbcli
+f9dfd58e2f539c9395037761bf56e116  usr/lib/libxkbcommon-x11.so.0.0.0
+0aed544c79ab46667505af08b5e6a687  usr/lib/libxkbcommon.so.0.0.0
+370ee3d06c46dd89ee37ee13468fe836  usr/libexec/xkbcommon/xkbcli-compile-keymap
+c18261ced6c302ce81ec06bc7ae1ea95  usr/libexec/xkbcommon/xkbcli-how-to-type
+3aa2ef6704a53c2e366862b5d5b2b50f  usr/libexec/xkbcommon/xkbcli-interactive-evdev
+5ffd81088179bc6ba1a3304eb9bafb18  usr/libexec/xkbcommon/xkbcli-interactive-wayland
+866d058aecb8b350cdc965b10dc5ee52  usr/libexec/xkbcommon/xkbcli-interactive-x11

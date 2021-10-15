@@ -1,0 +1,3 @@
+40f5f29f542228ffa7a72abc09400954  lib/systemd/system/firmwared.service
+d05435281244b7f0a5606b8cd7537841  lib/systemd/system-preset/98-firmwared.preset
+20d6da00f27d0f95ad0831ad6fdf1682  usr/bin/firmwared

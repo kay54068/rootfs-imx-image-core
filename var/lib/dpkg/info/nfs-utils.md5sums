@@ -1,0 +1,8 @@
+e3eb7dcc3d4cc5a6177fd3710de9804c  lib/systemd/system/nfs-mountd.service
+2ea63f04598b1968988c320379ce17e0  lib/systemd/system/nfs-server.service
+5237e7a0a32cb65efd4e51aa729439f3  lib/systemd/system-preset/98-nfs-utils.preset
+37d1d7dc50045c86276872726e2cfb21  usr/sbin/exportfs
+ed7261a033f584fcf24e8c4fb2241f4b  usr/sbin/nfsconf
+3daeda69d672f903f531cb2bbb783add  usr/sbin/rpc.mountd
+3765979f9af147eb5046d6693084826f  usr/sbin/rpc.nfsd
+4a149ce8d65d69b2bd8ce7efc58f86ac  usr/sbin/rpcdebug

@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3.9
+/usr/lib/python3.9/site-packages
+/usr/lib/python3.9/site-packages/pyjailhouse
+/usr/lib/python3.9/site-packages/pyjailhouse/__init__.py
+/usr/lib/python3.9/site-packages/pyjailhouse/cell.py
+/usr/lib/python3.9/site-packages/pyjailhouse/extendedenum.py
+/usr/lib/python3.9/site-packages/pyjailhouse/pci_defs.py
+/usr/lib/python3.9/site-packages/pyjailhouse/sysfs_parser.py

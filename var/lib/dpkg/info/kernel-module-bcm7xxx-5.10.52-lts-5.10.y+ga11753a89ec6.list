@@ -1,0 +1,9 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/kernel
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/kernel/drivers
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/kernel/drivers/net
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/kernel/drivers/net/phy
+/lib/modules/5.10.52-lts-5.10.y+ga11753a89ec6/kernel/drivers/net/phy/bcm7xxx.ko

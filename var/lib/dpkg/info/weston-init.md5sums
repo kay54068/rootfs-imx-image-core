@@ -1,0 +1,8 @@
+d41d8cd98f00b204e9800998ecf8427e  etc/default/weston
+f98a794960a8dbffbff794f14b44edda  etc/pam.d/weston-autologin
+2a9b1fa777716b50b6f4e4e4c8a7503b  etc/profile.d/weston.sh
+41a1c00fbdf5606fd1ef2ecdbdbee74b  etc/xdg/weston/weston.ini
+0e981f09080c4fff7ab3be312549d8f2  lib/systemd/system/weston.service
+3274bdd8836dd8b019d744f7fafc8b96  lib/systemd/system/weston.socket
+72ab261608e19ddfe6663f6522030525  lib/systemd/system-preset/98-weston-init.preset
+38ca4c582735b25a3fc0e8278b2f9edd  usr/bin/weston-start

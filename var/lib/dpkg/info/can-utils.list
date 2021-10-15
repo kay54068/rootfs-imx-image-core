@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/bin
+/usr/bin/candump.can-utils
+/usr/bin/cangen
+/usr/bin/canplayer
+/usr/bin/cansend.can-utils
+/usr/bin/cansequence.can-utils
+/usr/bin/cansniffer

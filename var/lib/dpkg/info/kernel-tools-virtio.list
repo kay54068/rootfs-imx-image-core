@@ -1,0 +1,5 @@
+/.
+/usr
+/usr/bin
+/usr/bin/virtio-ivshmem-block
+/usr/bin/virtio-ivshmem-console

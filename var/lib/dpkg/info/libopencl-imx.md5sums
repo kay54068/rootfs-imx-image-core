@@ -1,0 +1,3 @@
+26e97722cf5d43a65b8378478395d554  etc/OpenCL/vendors/Vivante.icd
+5573accea5248da36b42566a7cccdffd  usr/lib/libOpenCL.so.1.2.0
+fc70c66b837d039833ee97a283e3d3bd  usr/lib/libOpenCL.so.3.0.0

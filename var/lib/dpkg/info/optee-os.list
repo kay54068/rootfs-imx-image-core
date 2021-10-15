@@ -1,0 +1,12 @@
+/.
+/lib
+/lib/firmware
+/lib/firmware/tee-header_v2.bin
+/lib/firmware/tee-pageable_v2.bin
+/lib/firmware/tee-pager_v2.bin
+/lib/firmware/tee-raw.bin
+/lib/firmware/tee.bin
+/lib/optee_armtz
+/lib/optee_armtz/023f8f1a-292a-432b-8fc4-de8471358067.ta
+/lib/optee_armtz/f04a0fe7-1f5d-4b9b-abf7-619b85b4ce8c.ta
+/lib/optee_armtz/fd02c9da-306c-48c7-a49c-bbd827ae86ee.ta

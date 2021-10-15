@@ -1,0 +1,5 @@
+b834d285d6ac965bd496f84beb5a2cbc  usr/bin/find.findutils
+1f08c4defc176f4f3cf560065f4a21a0  usr/bin/locate
+ab93dc24a05d5191d8aa5b9343234631  usr/bin/updatedb
+32402fa3b53dd49cd66638172f9415a3  usr/bin/xargs.findutils
+4eb954f00fbb7236f58bee293c82bd24  usr/libexec/frcode

@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/bin
+/usr/bin/xxhsum
+/usr/lib
+/usr/lib/libxxhash.so.0.8.0
+/usr/bin/xxh128sum
+/usr/bin/xxh32sum
+/usr/bin/xxh64sum
+/usr/lib/libxxhash.so.0

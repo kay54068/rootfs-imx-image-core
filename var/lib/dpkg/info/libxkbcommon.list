@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/bin
+/usr/bin/xkbcli
+/usr/lib
+/usr/lib/libxkbcommon-x11.so.0.0.0
+/usr/lib/libxkbcommon.so.0.0.0
+/usr/libexec
+/usr/libexec/xkbcommon
+/usr/libexec/xkbcommon/xkbcli-compile-keymap
+/usr/libexec/xkbcommon/xkbcli-how-to-type
+/usr/libexec/xkbcommon/xkbcli-interactive-evdev
+/usr/libexec/xkbcommon/xkbcli-interactive-wayland
+/usr/libexec/xkbcommon/xkbcli-interactive-x11
+/usr/lib/libxkbcommon-x11.so.0
+/usr/lib/libxkbcommon.so.0

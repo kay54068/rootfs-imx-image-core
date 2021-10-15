@@ -1,0 +1,16 @@
+71ead6edce143891be42dd67e26af6ed  usr/lib/python2.7/json/__init__.py
+d0fd78ec86315c4e8ba7042a8e8fb58b  usr/lib/python2.7/json/__init__.pyc
+d0fd78ec86315c4e8ba7042a8e8fb58b  usr/lib/python2.7/json/__init__.pyo
+c68107424e8c90573370bb67bd11d64b  usr/lib/python2.7/json/decoder.py
+6b17c89a6b852521c607bfab54c0e993  usr/lib/python2.7/json/decoder.pyc
+6b17c89a6b852521c607bfab54c0e993  usr/lib/python2.7/json/decoder.pyo
+a677bf3b54f6bb1094079b6ed766d037  usr/lib/python2.7/json/encoder.py
+b7009d55ce21aed8276128cbf2bbf012  usr/lib/python2.7/json/encoder.pyc
+b7009d55ce21aed8276128cbf2bbf012  usr/lib/python2.7/json/encoder.pyo
+8d6660f10863f99ffdd9a95eeddd7b64  usr/lib/python2.7/json/scanner.py
+e16113560d1323bea98e0c5d72a88e61  usr/lib/python2.7/json/scanner.pyc
+e16113560d1323bea98e0c5d72a88e61  usr/lib/python2.7/json/scanner.pyo
+ad879e2ba247d3d4a5cc71fe22db91d0  usr/lib/python2.7/json/tool.py
+90eda62902319eb434c121904d9eb263  usr/lib/python2.7/json/tool.pyc
+90eda62902319eb434c121904d9eb263  usr/lib/python2.7/json/tool.pyo
+c8d566b2c6e4e1dd3982861da7cbdda4  usr/lib/python2.7/lib-dynload/_json.so

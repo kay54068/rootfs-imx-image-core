@@ -1,0 +1,10 @@
+/.
+/lib
+/lib/optee_armtz
+/lib/optee_armtz/11b5c4aa-6d20-11ea-bc55-0242ac130003.ta
+/usr
+/usr/lib
+/usr/lib/libsmw.so.0.1
+/usr/lib/libsmw_pkcs11.so.1.0
+/usr/lib/libsmw.so.0
+/usr/lib/libsmw_pkcs11.so.1

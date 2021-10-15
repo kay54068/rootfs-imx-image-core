@@ -1,0 +1,8 @@
+10686013dbe462dab09a93a2d70541b9  lib/firmware/tee-header_v2.bin
+d41d8cd98f00b204e9800998ecf8427e  lib/firmware/tee-pageable_v2.bin
+845290040259549f47e1114ae89b979a  lib/firmware/tee-pager_v2.bin
+845290040259549f47e1114ae89b979a  lib/firmware/tee-raw.bin
+66c2e89efaef4b580824cdbd208dcb7e  lib/firmware/tee.bin
+9225665b9374fe33f0201734321827f5  lib/optee_armtz/023f8f1a-292a-432b-8fc4-de8471358067.ta
+84c7b61d6c9dd014aff2b4809a2f0eaf  lib/optee_armtz/f04a0fe7-1f5d-4b9b-abf7-619b85b4ce8c.ta
+0fd6f787e98fd561d581d7894acdf1a2  lib/optee_armtz/fd02c9da-306c-48c7-a49c-bbd827ae86ee.ta

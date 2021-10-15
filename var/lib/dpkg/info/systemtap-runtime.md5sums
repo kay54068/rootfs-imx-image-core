@@ -1,0 +1,4 @@
+17537d494374cc8c34054232fe9fafe5  usr/bin/stap-merge
+8db7c68fc7d57b27e9eb145e2be864d1  usr/bin/staprun
+75d896c3368c8e142e99ce75854fd746  usr/bin/stapsh
+e04514f9ec3eff6659705a79781fad79  usr/libexec/systemtap/stapio
